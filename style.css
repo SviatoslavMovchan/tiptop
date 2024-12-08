@@ -12,14 +12,14 @@ header {
 }
 
 .banner {
-    width: 100%; 
+    width: 20%; 
     height: auto; 
 }
 
 .about {
     text-align: center;
     padding: 20px;
-    background-color: blue;
+    background-color: rgb(3, 196, 3);
     color: white;
 }
 
@@ -66,8 +66,8 @@ header {
 }
 
 footer {
-    background-color: grey;
-    color: white;
+    background-color: rgba(63, 75, 75, 0.133);
+    color: black;
     text-align: center;
     padding: 10px;
 }
